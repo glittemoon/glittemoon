@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glittemoon
+- 👋 Hi, I’m @inesMjd
 - 👀 I’m interested in coding but i'm just a begginer 
 - 🌱 I’m currently learning hox to program in c language
 - 💞️ I’m looking to collaborate on ...
